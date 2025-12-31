@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Drus008
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Front-End developing
+- 👀 I’m interested in formal programing
+- 🌱 I’m currently learning algebraic topology
 
 
 <!---
